@@ -1,5 +1,5 @@
 package com.hwua.dao;
-//这是别人提交的代码，我也修改了这行代码，演示冲突
+//这是别人提交的代码，演示冲突，我也修改了这行代码
 import java.sql.SQLException;
 import java.util.List;
 
